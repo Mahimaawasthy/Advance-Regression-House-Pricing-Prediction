@@ -24,3 +24,13 @@ Business Goal
  
 
 You are required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
+
+
+Technologies Used------> 
+IDE - Google Collab Language - Python 3.10.12 library - numpy v1.22.4 library - pandas v1.5.3 library - matplotlib v3.7.1 library - seaborn v0.12.2
+
+Acknowledgements-----> Give credit here.
+
+This project was a case study provided by Upgrad References taken for this case study are: https://stackoverflow.com/ https://www.kaggle.com/ https://www.google.com/
+
+Contact----> Created by() - feel free to contact me!
